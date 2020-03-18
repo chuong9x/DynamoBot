@@ -1,0 +1,12 @@
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.exe.config
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.exe
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\TelegramBot.pdb
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\Telegram.Bot.dll
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\bin\Debug\Telegram.Bot.xml
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csproj.CoreCompileInputs.cache
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csproj.CopyComplete
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.exe
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.pdb
+C:\Users\HO VAN CHUONG\source\repos\TelegramBot\TelegramBot\obj\Debug\TelegramBot.csprojAssemblyReference.cache
